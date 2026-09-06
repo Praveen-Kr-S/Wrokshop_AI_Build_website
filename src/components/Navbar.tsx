@@ -100,7 +100,7 @@ export const Navbar: React.FC = () => {
                 }`
               }
             >
-              Home
+              About
             </NavLink>
           </nav>
 
